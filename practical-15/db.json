@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "apple",
+    "price": 0.5,
+    "description": "a fruit",
+    "category": "food",
+    "image": "https://placehold.it/100x100"
+  },
+  {
+    "id": 2,
+    "name": "banana",
+    "price": 0.3,
+    "description": "a fruit",
+    "category": "food",
+    "image": "https://placehold.it/100x100"
+  }
+]
